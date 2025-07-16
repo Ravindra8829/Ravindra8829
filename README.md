@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravindra Kumar Suthar</h1>
-<h3 align="center">A passionate frontend developer from India Full-Stack Developer | QA Enthusiast | Freelance Project Consultant 💡 Passionate about building scalable web & mobile apps, automating tests, and helping students bring their academic projects to life using no-code/low-code tools. 🔍 Exploring the intersection of clean code, cloud computing, and user-first design.</h3>
+<h3 align="center">A passionate Software developer from India Full-Stack Developer | QA Enthusiast | Freelance Project Consultant 💡 Passionate about building scalable web & mobile apps, automating tests, and helping students bring their academic projects to life using no-code/low-code tools. 🔍 Exploring the intersection of clean code, cloud computing, and user-first design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindra8829&label=Profile%20views&color=0e75b6&style=flat" alt="ravindra8829" /> </p>
 
