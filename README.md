@@ -26,99 +26,138 @@
 
 <h3 align="left">Certifications:</h3>
 
-<ul>
-  <li><strong>Google Analytics Certification</strong><br>
-    <em>Issuer:</em> Google Digital Academy (Skillshop)<br>
-    <em>Issued:</em> Apr 2025 · <em>Expires:</em> Apr 2026<br>
-    <em>Credential ID:</em> 140518750<br>
-    <em>Skills:</em> Google Analytics, Google Ads
-  </li>
-  <li><strong>Google Data Analytics</strong><br>
-    <em>Issuer:</em> Coursera<br>
-    <em>Issued:</em> Nov 2024<br>
-    <em>Credential ID:</em> AG72M3HWXCYE<br>
-    <em>Skills:</em> R, Tableau, Data Structures, SQL, Spreadsheets
-  </li>
-  <li><strong>Google IT Automation with Python</strong><br>
-    <em>Issuer:</em> Google<br>
-    <em>Issued:</em> Oct 2024<br>
-    <em>Credential ID:</em> 4P6P3FNGN3O<br>
-    <em>Skills:</em> GitHub, Cloud Integration, Troubleshooting, Debugging, Scripting, Git, Automation, Python, Programming, Version Control
-  </li>
-  <li><strong>Google Play Academy – Store Listing Certificate</strong><br>
-    <em>Issuer:</em> Google Play<br>
-    <em>Issued:</em> Jul 2024 · <em>Expires:</em> Jul 2027<br>
-    <em>Credential ID:</em> 108776064
-  </li>
-  <li><strong>Scrum Foundation Professional Certification</strong><br>
-    <em>Issuer:</em> Certiprof<br>
-    <em>Issued:</em> Jun 2024<br>
-    <em>Credential ID:</em> 97328527
-  </li>
-  <li><strong>Google AI Essentials</strong><br>
-    <em>Issuer:</em> Google<br>
-    <em>Issued:</em> May 2024<br>
-    <em>Credential ID:</em> ZDVULYMNEA99
-  </li>
-  <li><strong>Google Cybersecurity</strong><br>
-    <em>Issuer:</em> Google<br>
-    <em>Issued:</em> May 2024<br>
-    <em>Credential ID:</em> 6DRUX2NMDK6J<br>
-    <em>Skills:</em> Cybersecurity, OS & Security, Security Management, IT Security, Physical Security, Network Security
-  </li>
-  <li><strong>Python Essentials</strong><br>
-    <em>Issuer:</em> Cisco Networking Academy<br>
-    <em>Issued:</em> Apr 2024<br>
-    <em>Skills:</em> Programming
-  </li>
-  <li><strong>Python Essentials 1</strong><br>
-    <em>Issuer:</em> Cisco Networking Academy<br>
-    <em>Issued:</em> Apr 2024<br>
-    <em>Skills:</em> Python, Programming
-  </li>
-  <li><strong>Google IT Support</strong><br>
-    <em>Issuer:</em> Google<br>
-    <em>Issued:</em> Sep 2023<br>
-    <em>Credential ID:</em> 4H9TTNW2WVE6<br>
-    <em>Skills:</em> Operating Systems, IT Security, Networking, System Administration
-  </li>
-  <li><strong>Introduction to Computers and Operating Systems and Security</strong><br>
-    <em>Issuer:</em> Microsoft<br>
-    <em>Issued:</em> Aug 2023<br>
-    <em>Credential ID:</em> G78LYGVK6RNS<br>
-    <em>Skills:</em> OS & Security
-  </li>
-  <li><strong>Prompt Engineering for ChatGPT</strong><br>
-    <em>Issuer:</em> Vanderbilt University<br>
-    <em>Issued:</em> Aug 2023<br>
-    <em>Credential ID:</em> KNFQ8RZSFSE5<br>
-    <em>Skills:</em> ChatGPT
-  </li>
-  <li><strong>Data Analytics Essentials</strong><br>
-    <em>Issuer:</em> Cisco Networking Academy<br>
-    <em>Issued:</em> Jun 2023<br>
-    <em>Skills:</em> Tableau, SQL
-  </li>
-  <li><strong>TCS iON Career Edge – Young Professional</strong><br>
-    <em>Issuer:</em> TCS<br>
-    <em>Issued:</em> May 2023<br>
-    <em>Credential ID:</em> 119854-24250133-1016<br>
-    <em>Skills:</em> Interview Skills, Presentation Skills, IT Fundamentals
-  </li>
-  <li><strong>NASSCOM TruBot Designer</strong><br>
-    <em>Issuer:</em> NASSCOM<br>
-    <em>Issued:</em> Jan 2023<br>
-    <em>Credential ID:</em> FSP/2023/1/8298363
-  </li>
-  <li><strong>AWS Technical Essentials</strong><br>
-    <em>Issuer:</em> The Datatech Labs<br>
-    <em>Issued:</em> Dec 2022
-  </li>
-  <li><strong>CCNA 200-301 Network Fundamentals (Online)</strong><br>
-    <em>Issuer:</em> Simplilearn Education<br>
-    <em>Credential ID:</em> 8238240
-  </li>
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th>Certification</th>
+      <th>Issuer</th>
+      <th>Date</th>
+      <th>Credential ID</th>
+      <th>Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Google Analytics Certification</td>
+      <td>Google Digital Academy (Skillshop)</td>
+      <td>Apr 2025 - Apr 2026</td>
+      <td>140518750</td>
+      <td>Google Analytics, Google Ads</td>
+    </tr>
+    <tr>
+      <td>Google Data Analytics</td>
+      <td>Coursera</td>
+      <td>Nov 2024</td>
+      <td>AG72M3HWXCYE</td>
+      <td>R, Tableau, Data Structures, SQL, Spreadsheets</td>
+    </tr>
+    <tr>
+      <td>Google IT Automation with Python</td>
+      <td>Google</td>
+      <td>Oct 2024</td>
+      <td>4P6P3FNGN3O</td>
+      <td>GitHub, Cloud Integration, Troubleshooting, Debugging, Scripting, Git, Automation, Python, Programming, Version Control</td>
+    </tr>
+    <tr>
+      <td>Google Play Academy – Store Listing Certificate</td>
+      <td>Google Play</td>
+      <td>Jul 2024 - Jul 2027</td>
+      <td>108776064</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Scrum Foundation Professional Certification</td>
+      <td>Certiprof</td>
+      <td>Jun 2024</td>
+      <td>97328527</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Google AI Essentials</td>
+      <td>Google</td>
+      <td>May 2024</td>
+      <td>ZDVULYMNEA99</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Google Cybersecurity</td>
+      <td>Google</td>
+      <td>May 2024</td>
+      <td>6DRUX2NMDK6J</td>
+      <td>Cybersecurity, OS & Security, Security Management, IT Security, Physical Security, Network Security</td>
+    </tr>
+    <tr>
+      <td>Python Essentials</td>
+      <td>Cisco Networking Academy</td>
+      <td>Apr 2024</td>
+      <td></td>
+      <td>Programming</td>
+    </tr>
+    <tr>
+      <td>Python Essentials 1</td>
+      <td>Cisco Networking Academy</td>
+      <td>Apr 2024</td>
+      <td></td>
+      <td>Python, Programming</td>
+    </tr>
+    <tr>
+      <td>Google IT Support</td>
+      <td>Google</td>
+      <td>Sep 2023</td>
+      <td>4H9TTNW2WVE6</td>
+      <td>Operating Systems, IT Security, Networking, System Administration</td>
+    </tr>
+    <tr>
+      <td>Introduction to Computers and Operating Systems and Security</td>
+      <td>Microsoft</td>
+      <td>Aug 2023</td>
+      <td>G78LYGVK6RNS</td>
+      <td>OS & Security</td>
+    </tr>
+    <tr>
+      <td>Prompt Engineering for ChatGPT</td>
+      <td>Vanderbilt University</td>
+      <td>Aug 2023</td>
+      <td>KNFQ8RZSFSE5</td>
+      <td>ChatGPT</td>
+    </tr>
+    <tr>
+      <td>Data Analytics Essentials</td>
+      <td>Cisco Networking Academy</td>
+      <td>Jun 2023</td>
+      <td></td>
+      <td>Tableau, SQL</td>
+    </tr>
+    <tr>
+      <td>TCS iON Career Edge – Young Professional</td>
+      <td>TCS</td>
+      <td>May 2023</td>
+      <td>119854-24250133-1016</td>
+      <td>Interview Skills, Presentation Skills, IT Fundamentals</td>
+    </tr>
+    <tr>
+      <td>NASSCOM TruBot Designer</td>
+      <td>NASSCOM</td>
+      <td>Jan 2023</td>
+      <td>FSP/2023/1/8298363</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>AWS Technical Essentials</td>
+      <td>The Datatech Labs</td>
+      <td>Dec 2022</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>CCNA 200-301 Network Fundamentals (Online)</td>
+      <td>Simplilearn Education</td>
+      <td></td>
+      <td>8238240</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 <h3 align="left">Research Papers:</h3>
 <ul>
