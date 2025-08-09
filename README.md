@@ -16,6 +16,142 @@
 <a href="https://leetcode.com/u/ravindra882/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Education:</h3>
+<ul>
+  <li><strong>Master of Computer Applications</strong>, Dr. D. Y. Patil Institute, Pune (2022–2024), CGPA: 8.14</li>
+  <li><strong>Bachelor of Computer Applications</strong>, Pacific University, Udaipur (2018–2021), CGPA: 7.78</li>
+  <li><strong>HSC</strong>, Sh. Parshawanath Sr. Sec. School, Varkana, Pali (2017–2018), 67.4%</li>
+  <li><strong>SSC</strong>, Govt. Sr. Sec. School, Chanchori, Pali (2015–2016), 67.5%</li>
+</ul>
+
+<h3 align="left">Certifications:</h3>
+
+<ul>
+  <li><strong>Google Analytics Certification</strong><br>
+    <em>Issuer:</em> Google Digital Academy (Skillshop)<br>
+    <em>Issued:</em> Apr 2025 · <em>Expires:</em> Apr 2026<br>
+    <em>Credential ID:</em> 140518750<br>
+    <em>Skills:</em> Google Analytics, Google Ads
+  </li>
+  <li><strong>Google Data Analytics</strong><br>
+    <em>Issuer:</em> Coursera<br>
+    <em>Issued:</em> Nov 2024<br>
+    <em>Credential ID:</em> AG72M3HWXCYE<br>
+    <em>Skills:</em> R, Tableau, Data Structures, SQL, Spreadsheets
+  </li>
+  <li><strong>Google IT Automation with Python</strong><br>
+    <em>Issuer:</em> Google<br>
+    <em>Issued:</em> Oct 2024<br>
+    <em>Credential ID:</em> 4P6P3FNGN3O<br>
+    <em>Skills:</em> GitHub, Cloud Integration, Troubleshooting, Debugging, Scripting, Git, Automation, Python, Programming, Version Control
+  </li>
+  <li><strong>Google Play Academy – Store Listing Certificate</strong><br>
+    <em>Issuer:</em> Google Play<br>
+    <em>Issued:</em> Jul 2024 · <em>Expires:</em> Jul 2027<br>
+    <em>Credential ID:</em> 108776064
+  </li>
+  <li><strong>Scrum Foundation Professional Certification</strong><br>
+    <em>Issuer:</em> Certiprof<br>
+    <em>Issued:</em> Jun 2024<br>
+    <em>Credential ID:</em> 97328527
+  </li>
+  <li><strong>Google AI Essentials</strong><br>
+    <em>Issuer:</em> Google<br>
+    <em>Issued:</em> May 2024<br>
+    <em>Credential ID:</em> ZDVULYMNEA99
+  </li>
+  <li><strong>Google Cybersecurity</strong><br>
+    <em>Issuer:</em> Google<br>
+    <em>Issued:</em> May 2024<br>
+    <em>Credential ID:</em> 6DRUX2NMDK6J<br>
+    <em>Skills:</em> Cybersecurity, OS & Security, Security Management, IT Security, Physical Security, Network Security
+  </li>
+  <li><strong>Python Essentials</strong><br>
+    <em>Issuer:</em> Cisco Networking Academy<br>
+    <em>Issued:</em> Apr 2024<br>
+    <em>Skills:</em> Programming
+  </li>
+  <li><strong>Python Essentials 1</strong><br>
+    <em>Issuer:</em> Cisco Networking Academy<br>
+    <em>Issued:</em> Apr 2024<br>
+    <em>Skills:</em> Python, Programming
+  </li>
+  <li><strong>Google IT Support</strong><br>
+    <em>Issuer:</em> Google<br>
+    <em>Issued:</em> Sep 2023<br>
+    <em>Credential ID:</em> 4H9TTNW2WVE6<br>
+    <em>Skills:</em> Operating Systems, IT Security, Networking, System Administration
+  </li>
+  <li><strong>Introduction to Computers and Operating Systems and Security</strong><br>
+    <em>Issuer:</em> Microsoft<br>
+    <em>Issued:</em> Aug 2023<br>
+    <em>Credential ID:</em> G78LYGVK6RNS<br>
+    <em>Skills:</em> OS & Security
+  </li>
+  <li><strong>Prompt Engineering for ChatGPT</strong><br>
+    <em>Issuer:</em> Vanderbilt University<br>
+    <em>Issued:</em> Aug 2023<br>
+    <em>Credential ID:</em> KNFQ8RZSFSE5<br>
+    <em>Skills:</em> ChatGPT
+  </li>
+  <li><strong>Data Analytics Essentials</strong><br>
+    <em>Issuer:</em> Cisco Networking Academy<br>
+    <em>Issued:</em> Jun 2023<br>
+    <em>Skills:</em> Tableau, SQL
+  </li>
+  <li><strong>TCS iON Career Edge – Young Professional</strong><br>
+    <em>Issuer:</em> TCS<br>
+    <em>Issued:</em> May 2023<br>
+    <em>Credential ID:</em> 119854-24250133-1016<br>
+    <em>Skills:</em> Interview Skills, Presentation Skills, IT Fundamentals
+  </li>
+  <li><strong>NASSCOM TruBot Designer</strong><br>
+    <em>Issuer:</em> NASSCOM<br>
+    <em>Issued:</em> Jan 2023<br>
+    <em>Credential ID:</em> FSP/2023/1/8298363
+  </li>
+  <li><strong>AWS Technical Essentials</strong><br>
+    <em>Issuer:</em> The Datatech Labs<br>
+    <em>Issued:</em> Dec 2022
+  </li>
+  <li><strong>CCNA 200-301 Network Fundamentals (Online)</strong><br>
+    <em>Issuer:</em> Simplilearn Education<br>
+    <em>Credential ID:</em> 8238240
+  </li>
+</ul>
+
+<h3 align="left">Research Papers:</h3>
+<ul>
+  <li>
+    <a href="https://ijrpr.com/uploads/V5ISSUE6/IJRPR30125.pdf" target="_blank">
+      Title: Web Application Development to Transform the Pharmaceutical Management to Increase Efficiency and Reliability<br>
+      Journal: International Journal of Recent Research in Physics (IJRPR)<br>
+      Year: 2024
+    </a>
+  </li>
+</ul>
+
+<h3 align="left">Skills:</h3>
+<p>
+Docker, Azure DevOps, AWS, Git, SQL Server, MySQL, MongoDB, Firebase, Spring Cloud, Node.js, Android, Java, Python, JavaScript, PHP, Algorithms, Python (Advanced)
+</p>
+
+<h3 align="left">Competitive Programming Achievements:</h3>
+<ul>
+  <li><strong>CodeChef</strong>: 96 problems solved, Bronze Problem Solver Badge, Python Skill Test (67%)</li>
+  <li><strong>HackerRank</strong>: Multiple badges and certifications</li>
+  <li><strong>LeetCode</strong>: Active participant</li>
+</ul>
+
+<h3 align="left">Resume:</h3>
+<p><a href="https://hackerrank-resume.s3.us-east-1.amazonaws.com/uploads/24352113/MjQzNTIxMTM=.pdf" target="_blank">View My Resume</a></p>
+
+<h3 align="left">Badges:</h3>
+<ul>
+  <li><img src="https://cdn.codechef.com/images/badges/problem/bronze.svg" alt="CodeChef Bronze Badge" height="30" /> Problem Solver - Bronze Badge (CodeChef)</li>
+  <li>Python Badge (HackerRank)</li>
+</ul>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
