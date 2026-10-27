@@ -91,6 +91,10 @@ A project exploring art discovery through web and mobile application development
 
 ## 🎓 Education
 
+- **Software testing with Java Automation**  
+  QSpiders - Software Testing Training Institute  
+  Sep 2026
+
 - **Master of Computer Applications (MCA)**  
   Dr. D. Y. Patil Institute of MCA and Management, Akurdi  
   CGPA: 8.19/10 | 2022–2024
