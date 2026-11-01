@@ -93,7 +93,7 @@ A project exploring art discovery through web and mobile application development
 
 - **Software testing with Java Automation**  
   QSpiders - Software Testing Training Institute  
-  Sep 2026
+  Sep 2026 - Present
 
 - **Master of Computer Applications (MCA)**  
   Dr. D. Y. Patil Institute of MCA and Management, Akurdi  
