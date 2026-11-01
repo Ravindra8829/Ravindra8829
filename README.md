@@ -2,7 +2,7 @@
 <h3 align="center">QA Engineer | Manual Testing | Automation Testing</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Quality+Assurance+Engineer;Manual+%26+Automation+Testing;Selenium+%7C+Playwright+%7C+Python;Always+Learning+and+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Quality+Assurance+Engineer;Manual+%26+Automation+Testing;Selenium+%7C+Playwright+%7C+Java;Always+Learning+and+Improving" alt="Typing SVG" />
 </p>
 
 <p align="center">
