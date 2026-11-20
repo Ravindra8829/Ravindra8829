@@ -91,7 +91,7 @@ A project exploring art discovery through web and mobile application development
 
 ## 🎓 Education
 
-- **Software testing with Java Automation**  
+- **Software testing with Java Automation (SDET)**  
   QSpiders - Software Testing Training Institute  
   Sep 2026 - Present
 
